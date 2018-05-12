@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37633
     wikipedia: http://en.wikipedia.org/wiki/Paschal_Beverly_Randolph
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42442#The-Wonderful-Story-of-Ravalette
 gutenberg_issued: '2013-03-31'
 gutenberg_type: Text
 identifiers:
