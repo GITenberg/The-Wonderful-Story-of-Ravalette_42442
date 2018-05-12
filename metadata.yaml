@@ -1,0 +1,33 @@
+_repo: The-Wonderful-Story-of-Ravalette_42442
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42442-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Randolph, Paschal Beverly
+    aliases:
+    - St. Leon, Count de
+    - Randolph, Paschal Beverley
+    - Lee, Griffin
+    - Randolph, P. B. (Paschal Beverly)
+    birthdate: 1825
+    deathdate: 1874
+    gutenberg_agent_id: '37633'
+    url: http://www.gutenberg.org/2009/agents/37633
+    wikipedia: http://en.wikipedia.org/wiki/Paschal_Beverly_Randolph
+description: ''
+gutenberg_issued: '2013-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42442'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spiritualism -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Rosicrucians -- Fiction'
+title: The Wonderful Story of Ravalette
+url: http://www.gutenberg.org/ebooks/42442
